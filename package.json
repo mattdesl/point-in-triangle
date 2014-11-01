@@ -1,0 +1,44 @@
+{
+  "name": "point-in-triangle",
+  "version": "1.0.0",
+  "description": "test whether a point is inside a triangle",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "test",
+    "hit",
+    "hittest",
+    "collide",
+    "collision",
+    "collided",
+    "collides",
+    "inside",
+    "point",
+    "is",
+    "triangle",
+    "triangles",
+    "tris",
+    "2d",
+    "vector"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/point-in-triangle.git"
+  },
+  "homepage": "https://github.com/mattdesl/point-in-triangle",
+  "bugs": {
+    "url": "https://github.com/mattdesl/point-in-triangle/issues"
+  }
+}
