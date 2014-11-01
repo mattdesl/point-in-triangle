@@ -11,6 +11,13 @@ var triangle = [ [25, 10], [100, 250], [40, 40] ]
 console.log(inside([25, 25], triangle))
 ```
 
+You may also be interested in:
+
+- [triangle-circle-collision](https://www.npmjs.org/package/triangle-circle-collision)
+- [line-circle-collision](https://www.npmjs.org/package/line-circle-collision)
+- [point-circle-collision](https://www.npmjs.org/package/point-circle-collision)
+- [is-clockwise](https://www.npmjs.org/package/is-clockwise)
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/point-in-triangle.png)](https://nodei.co/npm/point-in-triangle/)
